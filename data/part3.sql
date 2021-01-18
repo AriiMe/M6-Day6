@@ -5,6 +5,5 @@ CREATE TABLE IF NOT EXISTS
     sub_head character varying(30),
     content character varying(100),
     category character varying(20),
-    author character varying(30),
-    
+    author character varying(30) 
 );
